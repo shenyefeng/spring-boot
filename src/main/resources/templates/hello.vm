@@ -1,0 +1,13 @@
+<!DOCTYPE HTML>
+
+<html>
+<head>
+<title>Hello</title>
+</head>
+#foreach($s in $data)
+  
+    <p style="color: black;">$s</p>
+  
+#end
+
+</html>
