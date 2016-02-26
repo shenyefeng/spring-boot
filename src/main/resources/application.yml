@@ -6,3 +6,7 @@ server:
   port: 8081
 logging:
   file: logs/myapp.log
+spring:
+  aop:
+    auto: true
+
