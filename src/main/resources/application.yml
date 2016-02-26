@@ -1,0 +1,8 @@
+#server.port=8081
+#spring.devtools.remote.secret=123456
+#logging.file=logs/myapp.log
+#spring.velocity.cache=false
+server:
+  port: 8081
+logging:
+  file: logs/myapp.log
